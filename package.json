@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "primera entrega opcional",
+  "main": "datos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scanoe/opcional1express.git"
+  },
+  "author": "scanoe@unal.edu.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scanoe/opcional1express/issues"
+  },
+  "homepage": "https://github.com/scanoe/opcional1express#readme"
+}
